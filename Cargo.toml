@@ -1,0 +1,6 @@
+[package]
+name = "reactive-streams"
+version = "0.1.0"
+authors = ["Nandor Kracser <bonifaido@gmail.com>"]
+
+[dependencies]
